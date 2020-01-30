@@ -16,7 +16,7 @@ Slippy maps load the titles next to the titles shown in the zoom level. It lets 
 
 3. Why would you want to install a dedicated text editor? 
 
-Installing a dedicated text editor, such as Visual Studio Code, makes it easier to edit and wrote code. It can help find mistakes easier by showing an error, like if you are missing a parenthesis.
+Installing a dedicated text editor, such as Visual Studio Code, makes it easier to edit and wrote code. It can help find mistakes easier by showing different pieces in different colors.
 
 4. What is Leaflet? 
 
@@ -24,7 +24,11 @@ Leaflet is a JavaScript library that is open source for interactive maps. These 
 
 5. How has web map rendering changed over the years? 
 
+In the beginning rendering titles were stored somewhere and then combined with the style rules and brought to the end user. Moving to vector tiles allowed them to be stored on a server and they could be combined quicker and more easily with the style rules.
+
 6. What is the basemap-overlay paradigm and how are GL maps different? 
+
+The basemap-overlay paradigm started with a base layer of map tiles and data layers were put on top. GL maps can render maps in a browser using vector tiles.
 
 7. Head to the Mapbox GL JS examples page and pick two examples under the user interactions section. What kind of interactions do you see? Why might you use each of those interactions? 
 
@@ -40,6 +44,8 @@ Project
 
 Choose a project idea and open an issue in your GitHub repo describing what it is (10 pts). Your description should include:
 
-The topic you will focus on (one of: housing and homelessness, wildfires, or fracking.) 
-A description of your audience. 
-At least three questions you hope to be able to answer for your audience.
+1. The topic you will focus on (one of: housing and homelessness, wildfires, or fracking.) 
+
+2. A description of your audience. 
+
+3.At least three questions you hope to be able to answer for your audience.
