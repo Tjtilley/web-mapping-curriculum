@@ -32,6 +32,9 @@ The basemap-overlay paradigm started with a base layer of map tiles and data lay
 
 7. Head to the Mapbox GL JS examples page and pick two examples under the user interactions section. What kind of interactions do you see? Why might you use each of those interactions? 
 
+Filter Feature within a map view: In this example it looks like it is showing airports located in the map view area. This would be useful if you are looking for a category of features within an area, like coffee shops.
+
+Chage a Map's Language: The labels on a map can be changed by clicking on the langauge tab. This is useful for a map that will be internationally used and can be used by people who need it in different languages.
 
 Exercises to do on your own (10 pts each):
 
