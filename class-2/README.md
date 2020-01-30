@@ -8,11 +8,19 @@ Writing Prompts (2 pts each):
 
 1. What is the difference between raster and vector data? 
 
+Raster tiles are images and plain HTML elements that can be manipulated. Vector titles are a grid and contain vecotr data instead of images. Vector tiles also have map rendering that is separate from data storage.
+
 2. Why do "slippy maps" exist? 
+
+Slippy maps load the titles next to the titles shown in the zoom level. It lets you look at the next part of the map without having to load tiles all over again.
 
 3. Why would you want to install a dedicated text editor? 
 
+Installing a dedicated text editor, such as Visual Studio Code, makes it easier to edit and wrote code. It can help find mistakes easier by showing an error, like if you are missing a parenthesis.
+
 4. What is Leaflet? 
+
+Leaflet is a JavaScript library that is open source for interactive maps. These maps are mobile friendly as well.
 
 5. How has web map rendering changed over the years? 
 
