@@ -8,7 +8,7 @@ Writing Prompts (2 pts each):
 
 1. What is the difference between raster and vector data? 
 
-Raster tiles are images and plain HTML elements that can be manipulated. Vector titles are a grid and contain vecotr data instead of images. Vector tiles also have map rendering that is separate from data storage.
+Raster tiles are images and plain HTML elements that can be manipulated. Vector titles are a grid and contain vector data instead of images. Vector tiles also have map rendering that is separate from data storage.
 
 2. Why do "slippy maps" exist? 
 
@@ -16,7 +16,7 @@ Slippy maps load the titles next to the titles shown in the zoom level. It lets 
 
 3. Why would you want to install a dedicated text editor? 
 
-Installing a dedicated text editor, such as Visual Studio Code, makes it easier to edit and wrote code. It can help find mistakes easier by showing different pieces in different colors.
+Installing a dedicated text editor, such as Visual Studio Code, makes it easier to edit and write code. It can help find mistakes easier by showing different pieces in different colors.
 
 4. What is Leaflet? 
 
@@ -24,7 +24,7 @@ Leaflet is a JavaScript library that is open source for interactive maps. These 
 
 5. How has web map rendering changed over the years? 
 
-In the beginning rendering titles were stored somewhere and then combined with the style rules and brought to the end user. Moving to vector tiles allowed them to be stored on a server and they could be combined quicker and more easily with the style rules.
+In the beginning rendering titles were stored somewhere and then combined with the style rules and brought to the end user. Moving to vector tiles allowed them to be stored on a server and they could be combined more easily and quickly with the style rules.
 
 6. What is the basemap-overlay paradigm and how are GL maps different? 
 
@@ -32,9 +32,9 @@ The basemap-overlay paradigm started with a base layer of map tiles and data lay
 
 7. Head to the Mapbox GL JS examples page and pick two examples under the user interactions section. What kind of interactions do you see? Why might you use each of those interactions? 
 
-Filter Feature within a map view: In this example it looks like it is showing airports located in the map view area. This would be useful if you are looking for a category of features within an area, like coffee shops.
+Filter feature within a map view: In this example it looks like it is showing airports located in the map view area. This would be useful if you are looking for a category of features within an area, like coffee shops.
 
-Chage a Map's Language: The labels on a map can be changed by clicking on the langauge tab. This is useful for a map that will be internationally used and can be used by people who need it in different languages.
+Change a map's language: The labels on a map can be changed by clicking on the langauge tab. This is useful for a map that will be internationally used and can be used by people who need it in different languages.
 
 Exercises to do on your own (10 pts each):
 
