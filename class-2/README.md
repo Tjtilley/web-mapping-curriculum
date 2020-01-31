@@ -12,7 +12,7 @@ Raster tiles are images and plain HTML elements that can be manipulated. Vector 
 
 2. Why do "slippy maps" exist? 
 
-Slippy maps load the titles next to the titles shown in the zoom level. It lets you look at the next part of the map without having to load tiles all over again.
+Slippy maps load the tiles next to the tiles shown in the zoom level. It lets you look at the next part of the map without having to load tiles all over again.
 
 3. Why would you want to install a dedicated text editor? 
 
