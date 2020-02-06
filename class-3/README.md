@@ -10,9 +10,11 @@ Intro to interactivity
 
 Some strategies map developers can use to make sure interactions are not overwhelming include building for a specific audience and creating a clear pathway users can follow. 
 
+
 2. Why do we use the term “map user” instead of “map reader?”
 
 The term map user is used because the user is interacting with the map instead of just viewing the map.
+
 
 Common types of interaction
 
@@ -20,11 +22,13 @@ Common types of interaction
 
 Geocoding turns search terms that are human-readable into mappable coordinates. It can be added to an interactive map in the form of a search box to look up certain locations on a map.
 
+
 Intro to events
 
 1. What is an event?
 
 An event is an object that includes detailed information about something that just happened.
+
 
 2. Describe an example of how you could use an event listener with an interactive map.
 
