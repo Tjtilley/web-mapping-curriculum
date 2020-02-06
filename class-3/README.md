@@ -8,23 +8,35 @@ Intro to interactivity
 
 1. What are some strategies interactive map developers can use to ensure maps with a lot of interactions are not overwhelming?
 
+Some strategies map developers can use to make sure interactions are not overwhelming include building for a specific audience and creating a clear pathway users can follow. 
+
 2. Why do we use the term “map user” instead of “map reader?”
+
+The term map user is used because the user is interacting with the map instead of just viewing the map.
 
 Common types of interaction
 
 1. What is geocoding and how might you add it to an interactive map?
 
+Geocoding turns search terms that are human-readable into mappable coordinates. It can be added to an interactive map in the form of a search box to look up certain locations on a map.
+
 Intro to events
 
 1. What is an event?
 
+An event is an object that includes detailed information about something that just happened.
+
 2. Describe an example of how you could use an event listener with an interactive map.
+
+An event listener is a special type of function that waits for a user to click and then opens a popup with the information. This could be used in a "fly to" button that only goes to the set destination when clicked.
+
 
 Code exercises to do on your own (10 points):
 
 Starting from your marker-and-popup map, add a button that, when clicked, causes the map to fly to Walla Walla, Washington. To turn this assignment in, commit a new file called "fly-to.html" to the "class 3" folder in your personal class repo.
 
 Hint
+
 Create popups that include information about the clicked feature. Starting from this starter file, attempt to address each of the [Prompt] comments, including any sub-prompts that follow. Once you have made your edits, save your changes and commit the file to your personal class repo. This will be a challenging exercise and we don't expect everyone to build a completely working map. For any prompts you get stuck on, you can still get full credit by including, at a minimum:
 - Pseudo code describing what you think needs to happen.
 - At least one code snippet showing what you attempted.
