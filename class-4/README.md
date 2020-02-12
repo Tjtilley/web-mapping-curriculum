@@ -37,10 +37,11 @@ For each of the following 2 prompts, commit an html file to the "class 4" folder
 
 Code practice [5 points each]:
 
-1. This week, we have something new for you. We're using an interactive code editing tool called repl.io. Each of the links below will take you to a page with some code practice. Each one includes some guiding explanation as well as a set of exercises (each denoted with a number in square brackets, like [1]) for you to try. After you type some code into the pane on the left, you can click the "run" button to execute your code. Once you're satisfied with your code, you can turn in the exercise by opening an issue in your forked version of the class repo with the title "Class 4 code practice." Your issue can include either: copied and pasted code or a "share" link.
+This week, we have something new for you. We're using an interactive code editing tool called repl.io. Each of the links below will take you to a page with some code practice. Each one includes some guiding explanation as well as a set of exercises (each denoted with a number in square brackets, like [1]) for you to try. After you type some code into the pane on the left, you can click the "run" button to execute your code. Once you're satisfied with your code, you can turn in the exercise by opening an issue in your forked version of the class repo with the title "Class 4 code practice." Your issue can include either: copied and pasted code or a "share" link.
 
-Functions.
-Loops.
+1. Functions.
+
+2. Loops.
 
 
 Project
