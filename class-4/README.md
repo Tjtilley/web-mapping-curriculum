@@ -27,9 +27,15 @@ Jurisdiction finder recap For the following 3 prompts, reference the working fil
 
 1. Describe how feature gets to the makeFeatureLabel() function.
 
+The makeFeatureLabel() function translates a feature from a corresponding map layer to a name that is more readable and easier to understand. The features are gathered from underlying data using queryRenderedFeatures.
+
 2. What does the getDistrictNumber() function do?
 
+The getDistrictNumber()  function translates between a feature's map layer and needed dirstrict ID and corresponding district ID number. 
+
 3. Looking at the callback to map.on('click',...), what is e and why do we need it?
+
+The e stand for the event object. This is needed for event handlers to interact with the event object.
 
 Code exercises [10 points each]:
 
