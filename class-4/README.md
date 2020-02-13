@@ -56,6 +56,7 @@ This week, we have something new for you. We're using an interactive code editin
 
 
 Project
+
 This week, you should prepare your second progress report. This is a minimal check-in that should include, at a minimum:
 
 What you worked on this week.
