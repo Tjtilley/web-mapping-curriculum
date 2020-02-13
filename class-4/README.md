@@ -7,16 +7,21 @@ Homework
 For your class journal (2 points each):
 Objects recap
 
-1. An object is a series of ____’s : ____’s
+1. An object is a series of Keys : Values
 
 2. What kinds of things can be included in an object?
 
+Lots of things can be included in an object such as strings, arrays and variables.
 
 Intro to “client-side”
 
 1. What does client-side rendering mean in the context of web maps?
 
+Client side rendering means that the website, or in this case web map, is rendered entirely in the browser using JavaScript. Maps are rendered combinging style rules ad vector tiles dynamically.
+
 2. Why is it possible for Mapbox GL JS to place labels dynamically as you interact with the map?
+
+Mapbox GL JS computes the layout and labels as you put in options or move around the map using client side rendering that happens many times per second.
 
 Jurisdiction finder recap For the following 3 prompts, reference the working file and README.md in the jurisdiction finder explanation folder in the main class repo.
 
