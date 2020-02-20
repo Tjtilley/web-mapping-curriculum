@@ -37,7 +37,10 @@ Are there additional datasets that would help you meet your objectives? What bar
 Detailed description of your methodology:
 Describe steps required to prepare data for use in web map. How will you need to transform the data? Do you need to combine it with other kinds of data? Does it need to be reformatted in any way?
 For each dataset, description of how the data will be displayed on your web map. What kinds of UI elements and interactions will you need to build for your user to understand each dataset?
-Complete your project sketches Everyone produced some quick, low-fidelity project sketches for class. For next week, each project group should produce two medium-fidelity sketches, each conveying one of your possible final project designs. To turn in your medium-fidelity sketches, bring them to class next week.
+
+Complete your project sketches 
+
+Everyone produced some quick, low-fidelity project sketches for class. For next week, each project group should produce two medium-fidelity sketches, each conveying one of your possible final project designs. To turn in your medium-fidelity sketches, bring them to class next week.
 
 Your medium-fidelity sketches should include:
 
