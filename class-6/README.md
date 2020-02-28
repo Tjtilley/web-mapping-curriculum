@@ -3,26 +3,54 @@ For your class journal (2 points each):
 Data prep and analysis
 
 1. Find at least two web mapping examples that allow for user analysis. For each example provide: 
-  a) a link to the web map 
-
-  b) a description of the user analysis
+  a) a link to the web map b) a description of the user analysis
+  
+  Zillow:
+  
+  https://www.zillow.com/homes/for_rent/?searchQueryState={%22pagination%22:{},%22mapBounds%22:{%22west%22:-122.47925866699221,%22east%22:-122.36853707885744,%22south%22:37.72340650835836,%22north%22:37.80835577169908},%22isMapVisible%22:true,%22mapZoom%22:13,%22filterState%22:{%22isForSaleByAgent%22:{%22value%22:false},%22isForSaleByOwner%22:{%22value%22:false},%22isNewConstruction%22:{%22value%22:false},%22isForSaleForeclosure%22:{%22value%22:false},%22isComingSoon%22:{%22value%22:false},%22isAuction%22:{%22value%22:false},%22isPreMarketForeclosure%22:{%22value%22:false},%22isPreMarketPreForeclosure%22:{%22value%22:false},%22isForRent%22:{%22value%22:true}},%22isListVisible%22:true,%22customRegionId%22:%2247a1c5e585X1-CR1jjucmciarzwe_yex73%22}
+  
+ A user can draw an area where they would like to find a house.
+ 
+ Yelp:
+ 
+ https://www.yelp.com/search?find_desc=near%20by&find_loc=san%20francisco&l=p%3ACA%3ASan_Francisco%3A%3AOuter_Sunset
+ 
+ A user can add filters and choose areas on the map and desired restaurants with be shown in that area with those filters.
+ 
 
 2. Give an example of static data you might include on a web map. How is your example different from dynamic data?
 
+Static data is data that is analyzed ahead of time and is usually for display. An example would be a choropleth map showing poupulation by county. Dynamic data is analyzed right before its loaded. This is more appropriate for a map with live data like election results across the country.
+
+
 3. Under what circumstances might you want to do some data prep in desktop GIS before incorporating data into your web map? Give an example of the type of data that might apply here.
+
+One reason to prep data in desktop GIS is data simplification. A file might be large and in order to still use the data you might what to simplify the geometry. For example a county outline can simplified to have less definition in its outline in order to be incorporated into your web map easier.
+
 
 4. What are some data characteristics that can impact rendering speed? How might you address these issues?
 
+If you have a lot of different vector tile sources it can impact rendering speed. To fix this you can combine vector tile sources by using composited sources.
+
 5. What is turf.js? Give an example of how you could apply a turf operation to a web map.
 
+Turf.js is a spatial analysis library of open-source JavaScript. Turf can be applied in a web map in order to calculate the distance between two different points.
 
 Inline writing prompts
 
 1. Describe where the centroids variable comes from. How is it possible for you to reference this variable when you didn't declare it?
 
+The centroids variable comes from the centroids.js file. The variable can be referenced even though it isn't declared in the point in poly file because it is defined in the centroids.js file which has been linked to the point in poly file.
+
+
 2. Why might you want to create the 'centroids-selected' layer after you've created the 'centroids' layer?
 
+The centroids-selected layer houses centroids selected by the user. The new layer lets the selected centroids have a different color or style so they can stand apart from the rest of the centroids.
+
+
 3. Should you set the marker's lngLat and add it to the map? Why or why not?
+
+The marker should not be set to a single lngLat because it will move around the map as the user clicks in different places.
 
 4. How did you know which arguments to pass to the pip() function?
 
