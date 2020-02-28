@@ -54,6 +54,7 @@ The marker should not be set to a single lngLat because it will move around the 
 
 4. How did you know which arguments to pass to the pip() function?
 
+When hovering over the pip() function a popup box shows that the arguements are (FeatureCollection: any, polygon:any):any.
 
 Code exercises to do on your own (20 points):
 
