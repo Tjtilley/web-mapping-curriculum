@@ -42,6 +42,8 @@ CORS is cross orign resource sharing and web map developers need to think about 
 
 2. What is the concept of "separation of concerns?"
 
+Separation of concerns means separating out ceratin peices of the web map. Common separations include style and presentation, business logic and content. A reason you would want to do this is because the different pieces are usually independently changed.
+
 
 Code exercises to do on your own (10 points):
 This exercise is more open-ended than usual and we encourage you to be as creative as you like!
