@@ -7,7 +7,7 @@ Data prep and analysis
   
   Zillow:
   
-  https://www.zillow.com/homes/for_rent/?searchQueryState={%22pagination%22:{},%22mapBounds%22:{%22west%22:-122.47925866699221,%22east%22:-122.36853707885744,%22south%22:37.72340650835836,%22north%22:37.80835577169908},%22isMapVisible%22:true,%22mapZoom%22:13,%22filterState%22:{%22isForSaleByAgent%22:{%22value%22:false},%22isForSaleByOwner%22:{%22value%22:false},%22isNewConstruction%22:{%22value%22:false},%22isForSaleForeclosure%22:{%22value%22:false},%22isComingSoon%22:{%22value%22:false},%22isAuction%22:{%22value%22:false},%22isPreMarketForeclosure%22:{%22value%22:false},%22isPreMarketPreForeclosure%22:{%22value%22:false},%22isForRent%22:{%22value%22:true}},%22isListVisible%22:true,%22customRegionId%22:%2247a1c5e585X1-CR1jjucmciarzwe_yex73%22}
+  https://www.zillow.com/homes/for_rent/?searchQueryState={%22pagination%22:{},%22mapBounds%22:{%22west%22:-122.47925866699221,%22east%22:-122.36853707885744,%22south%22:37.72340650835836,%22north%22:37.80835577169908},%22isMapVisible%22:true,%22mapZoom%22:13,%22filterState%22:{%22isForSaleByAgent%22:{%22value%22:false},%22isForSaleByOwner%22:{%22value%22:false},%22isNewConstruction%22:{%22value%22:false},%22isForSaleForeclosure%22:{%22value%22:false},%22isComingSoon%22:{%22value%22:false},%22isAuction%22:{%22value%22:false},%22isPreMarketForeclosure%22:{%22value%22:false},%22isPreMarketPreForeclosure%22:{%22value%22:false},%22isForRent%22:{%22value%22:true}},%22isListVisible%22:true,%22customRegionId%22:%2247a1c5e585X1-CR1jjucmciarzwe_yex73%22}%}
   
  A user can draw an area where they would like to find a house.
  
